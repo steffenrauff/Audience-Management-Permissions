@@ -12,7 +12,7 @@ Dette er dit personlige udviklingslaboratorium og dit "gymnastikrum" for strateg
 
 ## Indhold:
 * **`fokuslog.md`**: Mål, resultater, opgaver og karriereretning fra de første delte FokusLog-screenshots.
-* **`profil-feedback.md`**: Separate noter om arketypefeedback, arbejdsstil, MUS-refleksioner og rolle-/kompetencemateriale.
+* **[Profil, feedback og refleksioner](./profil-feedback.md)**: Organisationens designerarketype, Steffens placering på niveau 3 samt separat arketypefeedback, arbejdsstil og MUS-refleksioner. De særskilte niveaukriterier er endnu ikke dokumenteret.
 * **`sensemaking-praksis.md`**: Separate arbejdsnoter og en foreslået praksistest om sensemaking; ikke en del af FokusLog.
 * **`my-ai-principles.md`**: Dine egne formulerede principper og 'regler' for agentisk UX og produktarbejde.
 * **`experiments-log.md`**: Ugentlig log over afprøvede prompts, MCP-kald og workflows.

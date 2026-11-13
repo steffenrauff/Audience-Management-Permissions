@@ -66,35 +66,82 @@ Jeg arbejder energisk og engageret i dialog. En stor del af læringen opstår i 
 
 **Designspørgsmål:** Hvad skal vi forstå på tværs af de åbne spor, og hvilke fund vil begrunde en mere fokuseret opfølgning?
 
-## Rolle- og kompetencekort fra arketypemateriale
+## Organisationens designerarketype
 
-**Grundlag:** Tre billedudsnit af et rolle- og kompetencekort delt i samtalen. Opsamlingen nedenfor beskriver indholdet i materialet, ikke en bekræftet eller endeligt vedtaget rollebeskrivelse.
+**Kilde og status:** Rollearket "Designer", delt som screenshot den 13. november 2026. Steffen oplyser, at arket beskriver organisationens forventninger til designerprofilen. Nedenstående er en sammenfatning af rollearket; dokumentets versionsdato fremgår ikke af billedet.
+
+**Ledelsens anvendelse:** Steffen præciserer den 13. november 2026, at ledelsen bruger arketypen som vurderingsgrundlag for hans niveau. Den er dermed ikke blot inspiration til udvikling, men en ramme, som hans praksis og bidrag vurderes op imod. Det fremgår ikke af materialet, hvordan de enkelte kompetencer vægtes i vurderingen.
+
+### Niveau og personlig placering
+
+- Arketypen har niveau 1, 2 og 3, og Steffen er på **niveau 3**, jf. egen oplysning den 13. november 2026 og DEA-feedbacken fra november 2025.
+- Det delte rolleark beskriver designerrollen generelt. Det viser ikke de særskilte kriterier for niveau 1, 2 og 3; de kan derfor ikke udledes herfra.
+- DEA-feedbacken ovenfor er en personlig vurdering, ikke en komplet beskrivelse af organisationens niveau 3-kriterier.
 
 ### Rollebeskrivelse
 
-- **UX:** Kvalificere, hvilket problem der skal løses, gennem forretningsforståelse og et brugercentreret mindset; arbejde metodisk med brugerindsigter og research.
-- **UX/UI:** Skabe intuitive, brugervenlige og on-brand løsninger sammen med udviklingsteams og PM; arbejde med brugerflows og interaktionsdesign.
-- **UI:** Udforme den visuelle brugergrænseflade. Materialet nævner blandt andet skærmlayouts, interaktionselementer og feedbackmekanismer.
+En designer arbejder metodisk med brugerindsigter (research), intuitive brugerflows og interaktionsdesign (UX) og/eller den visuelle brugergrænseflade (UI). Med forretningsforståelse og et brugercentrisk mindset kvalificerer designeren det problem, der skal løses, og skaber løsninger, der er on-brand, brugervenlige, implementerbare og værdiskabende for TV 2 i samarbejde med udviklingsteams og Product Management.
 
-### Ansvarsområder og nøglekompetencer
+Formuleringen "og/eller" er vigtig: Rollearket rummer forskellige faglige tyngdepunkter, ikke et udtrykkeligt krav om samme specialisering i research, UX og UI.
 
-- Kvalificere problemrummet ud fra forretningsmål, brugerværdi og teknisk formåen.
-- Bruge design som metode gennem research, konceptudvikling og test.
-- Validere og optimere designkoncepter med løbende brugerinddragelse.
-- Træffe designbeslutninger med blik for udvikling, forretning og brugerbehov.
-- Kommunikere transparent om designprocessen og håndtere stakeholders.
-- Bidrage til en overordnet, tværgående designretning, TV 2-brandet i produkterne og TV 2's digitale designsystem.
-- Indsamle og analysere indsigter, eksempelvis via audits, nøgleordsanalyser, webanalyse og rapporter.
-- Planlægge og gennemføre interviews, usabilitytests og surveys samt inddrage tekniske indsigter.
-- Udvikle konkrete designløsninger fra UX-løsning til visuelt design.
+### Ansvarsområder
 
-### Spørgsmål, materialet lader stå åbne
+- **Problem & Solution Space:** Kvalificere de rigtige problemer ud fra forretningsmål, brugerværdi og teknisk formåen og udvikle passende løsninger. Materialet vægter "Designing the right thing" over "Designing things right".
+- **Brugercentrisk tilgang:** Validere og optimere koncepter gennem løbende brugerinddragelse og være ambassadør for brugercentrisk produktudvikling.
+- **Kvalificering af designløsninger:** Træffe pragmatiske designbeslutninger med afsæt i udviklingsomkostninger, forretningsstrategi og brugerbehov.
+- **Overordnet designretning og sammenhæng:** Fastholde et helhedsblik på brandoplevelsen på tværs af den digitale produktportefølje og skabe klarhed om designretningen.
+- **Design som metode:** Bruge en klar designproces med brugerrejser, konceptudvikling, interaktionsdesign og prototyper med fokus på problemløsning, brugerbehov og værdiskabelse.
+- **TV 2's brand i digitale produkter:** Videreudvikle og opretholde TV 2's visuelle identitet på tværs af digitale platforme i sammenhæng med organisationens øvrige identitet.
+- **TV 2's digitale designsystem:** Genbruge eksisterende designmønstre for sammenhæng, effektive arbejdsprocesser og konsistens samt bidrage til løbende videreudvikling og udbredelse.
+- **Transparens:** Kommunikere og dokumentere designbeslutninger og løbende involvere relevante interessenter.
 
-- Hvor går mandatgrænsen mellem denne rollebeskrivelse og D&I-rollen?
-- Hvad dækker “designbeslutninger” konkret over?
-- Hvad menes der med “brugertest” i denne sammenhæng?
+### Nøglekompetencer
 
-**Anvendelse:** Brug kortet som afsæt for at afklare ansvar og forventninger med relevante kolleger. Det bør ikke alene læses som en autoritativ beskrivelse af mandatet, da materialet selv markerer centrale afklaringsspørgsmål.
+**Funktionel ekspertise:**
+
+- Indsamle, analysere og formidle produktnære indsigter fra eksempelvis audits, nøgleordsanalyse, webanalyse og rapporter for at kvalificere designbeslutninger.
+- Planlægge og gennemføre kvantitativ og kvalitativ brugerinddragelse gennem interviews, usabilitytests og surveys til validering af mulige løsninger.
+- Udvikle gennemarbejdede designkoncepter ud fra forretningsmål og brugerbehov og omsætte UX-koncepter til konkrete løsninger med fokus på visuelt design og TV 2's brand.
+- Udvikle og anvende TV 2's digitale designsystem for at sikre konsistens og sammenhæng.
+- Forstå tekniske muligheder og begrænsninger, så løsninger kan kvalificeres og tilpasses det mulige.
+- Følge markedet og kende nye designstandarder.
+
+**Eksempler på tekniske færdigheder (ikke udtømmende):**
+
+- Customer experience og journey mapping.
+- Kvantitativ og kvalitativ UX-research.
+- Idé- og konceptudvikling samt storytelling.
+- UX-design: flows, informationsarkitektur, interaktionsdesign, wireframing og prototyping.
+- Systemdesign: komponenter, principper, tilgængelighed og designbibliotek.
+- Visuelt design: layout, typografi, farver, former og visuel identitet.
+- Værktøjsagnostisk arbejde; rollearket nævner Figma, Preely, Sonar, Typeform, Adobe Analytics og Jira som eksempler, ikke som en verificeret liste over aktuelt godkendte værktøjer.
+
+**Agil/digital erfaring:**
+
+- Designe digitale produkter til desktop, mobil, apps og TV.
+- Arbejde i designteams og produktteams i et agilt setup.
+- Planlægge og udføre agile aktiviteter som Design Thinking-workshops og Design Sprints.
+
+**Individuelle færdigheder:**
+
+- Produktstrategi samt forretnings- og organisationsforståelse.
+- Continuous Discovery og Design Thinking.
+- Kommunikation og formidling.
+- Metode- og procesdesign.
+- Planlægning og koordinering.
+- Workshopfacilitering.
+- Tværfagligt samarbejde og relationsopbygning.
+
+### Mandat
+
+- Beslutte en hensigtsmæssig designproces og udvælge relevante designmetoder med afsæt i etableret best practice fra UX Research Ops og Design Ops.
+- Konsolidere og anbefale konkrete koncept-, UX- og UI-løsninger med udgangspunkt i TV 2's designsystem, valideret ud fra brugerværdi og med blik for implementerbarhed. Slutningen af denne mandattekst er dækket i det delte screenshot og er derfor ikke gengivet fuldt.
+
+### Tidligere materiale og fortsatte afklaringer
+
+Tidligere delte billedudsnit opdelte rollen i UX, UX/UI og UI og rejste spørgsmål om snitfladen til D&I, betydningen af "designbeslutninger" og brugen af "brugertest". De spørgsmål bevares som afklaringspunkter fra det tidligere materiale, ikke som forbehold om hele den nu delte organisationsbeskrivelse.
+
+**Anvendelse i udviklingssparring:** Brug arketypen som ledelsens vurderingsramme og DEA-feedbacken som konkrete eksempler på Steffens praksis. Knyt fremtidige eksempler til relevante ansvarsområder og kompetencer med beskrivelse af egen indsats, resultat og belæg. Afklar med ledelsen, hvad der konkret kendetegner niveau 3, og hvordan et research-/UX-tyngdepunkt vægtes i den samlede designerprofil; rollearket alene besvarer ikke dette. Prioritering af udviklingsmål skal ske inden for vurderingsrammen, ikke erstatte den. Dette er en anbefalet arbejdsform til sparring, ikke nye niveaukriterier eller en ændring af FokusLog.
 
 ## Historiske MUS-refleksioner (2022–2023)
 
