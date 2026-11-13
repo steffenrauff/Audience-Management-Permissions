@@ -11,6 +11,9 @@ Dette er dit personlige udviklingslaboratorium og dit "gymnastikrum" for strateg
    * En levende log over dine agentiske eksperimenter med Copilot, VS Code, MCP og Figma, der munder ud i dine egne faste principper for AI i produktudvikling.
 
 ## Indhold:
+* **`fokuslog.md`**: Mål, resultater, opgaver og karriereretning fra de første delte FokusLog-screenshots.
+* **`profil-feedback.md`**: Separate noter om arketypefeedback, arbejdsstil, MUS-refleksioner og rolle-/kompetencemateriale.
+* **`sensemaking-praksis.md`**: Separate arbejdsnoter og en foreslået praksistest om sensemaking; ikke en del af FokusLog.
 * **`my-ai-principles.md`**: Dine egne formulerede principper og 'regler' for agentisk UX og produktarbejde.
 * **`experiments-log.md`**: Ugentlig log over afprøvede prompts, MCP-kald og workflows.
 * **`sparring-prompts/`**: Skabeloner til at starte kritiske sparringssessioner med Copilot.

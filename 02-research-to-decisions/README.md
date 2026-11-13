@@ -7,3 +7,6 @@ Formålet med denne mappe er at sikre, at bruger research aldrig ender som passi
 2. **Under analysen:** Skeln skarpt mellem hård evidens, brugerudsagn og uunderbyggede antagelser.
 3. **Ved afslutning:** Udarbejd et **Decision Brief** (brug skabelonen i `templates/decision-brief.template.md`).
 4. **Efterfølgende opfølgning:** Dokumentér hvad researchen faktisk ændrede i produktet.
+
+## Initiativer
+* [Indsigtsbibliotek på tværs af produktteams](./initiatives/indsigtsbibliotek.md): Tidlig problem- og PoC-skitse for genbrug af kvalitative indsigter på tværs af teams.

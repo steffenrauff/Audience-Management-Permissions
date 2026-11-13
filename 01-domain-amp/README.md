@@ -2,8 +2,11 @@
 
 Dette bibliotek indeholder fundamentet for at forstå og arbejde i AMP-teamet hos TV 2.
 
-## AMP's Kerneopgave
-AMP (Audience Management & Permissions) sikrer den sikre, friktionsfri og tillidsskabende adgang til TV 2's digitale økosystem (primært TV 2 Play, tv2.dk og tilknyttede apps).
+## Kildebelagt teamkontekst
+* [AMP context index](./amp-context-index.md): Første overblik over teamretning, domæne, aktuelle OKR'er, prioriteter og researchindsigter med links til Confluence-kilder.
+
+## Foreløbig kerneopgave (repoets arbejdssammenfatning)
+AMP (Audience Management & Permissions) arbejder med sikker og brugervenlig adgang til TV 2's digitale økosystem (primært TV 2 Play, tv2.dk og tilknyttede apps). Dette er repoets arbejdssammenfatning, ikke en officiel mission; AMP-teamspace har endnu ikke udfyldt mission og vision.
 
 ### Centrale ansvarsområder:
 1. **Identitet & Autentificering:**
