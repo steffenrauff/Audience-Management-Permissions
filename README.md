@@ -18,6 +18,7 @@ Dette repository er bygget til at understøtte en **agentisk arbejdsgang** med G
 ---
 
 ## Hurtigstart: Sådan bruger du dine agenter
+* **Vil du samle opgaver, indtil de er klar til Jira?** Brug [opgaveoverblikket](./opgaveoverblik.md).
 * **Vil du udfordres på et design eller en idé?** Kør prompten i [`.github/prompts/01-flow-stress-test.prompt.md`](./.github/prompts/01-flow-stress-test.prompt.md) eller [`05-sparring-and-reflection/sparring-prompts/challenge-my-flow.prompt.md`](./05-sparring-and-reflection/sparring-prompts/challenge-my-flow.prompt.md).
 * **Skal du lave et beslutningsoplæg til Anja?** Kør [`.github/prompts/02-research-to-decision.prompt.md`](./.github/prompts/02-research-to-decision.prompt.md).
 * **Skal du overlevere et flow til udvikling?** Kør [`.github/prompts/03-jira-spec-generator.prompt.md`](./.github/prompts/03-jira-spec-generator.prompt.md) mod Jira-projekt `AMT`.
