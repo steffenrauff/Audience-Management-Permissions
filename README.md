@@ -8,6 +8,7 @@ Dette repository er bygget til at understøtte en **agentisk arbejdsgang** med G
 
 ## Mappestruktur
 
+* [`Audience Management & Permissions/`](./Audience%20Management%20%26%20Permissions/) — Mappestruktur fra [Lucid-boardet](https://lucid.app/lucidspark/9001aab4-3ba4-4087-85a0-2ab8e3ec40e2/edit), uden billeder. `.gitkeep`-filer bevarer de tomme mapper i Git.
 * [`.github/`](./.github/) — Agent-instruktioner (`copilot-instructions.md`) og genbrugelige prompt-workflows.
 * [`01-domain-amp/`](./01-domain-amp/) — Domæneviden, systemarkitektur (Auth0, permissions), ansvarsområder og snitflader (Anja/PM, Malene, D&I).
 * [`02-research-to-decisions/`](./02-research-to-decisions/) — Beslutningsdrevet research: Problem framing, evidenssyntese og beslutningsbriefs med klare trade-offs.
