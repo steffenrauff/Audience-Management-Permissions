@@ -15,6 +15,7 @@ Dette repository er bygget til at understøtte en **agentisk arbejdsgang** med G
 * [`03-designops-and-system/`](./03-designops-and-system/) — Praksis for TV 2's designsystem (`@tv2/afui-components`) i AMP, komponent-gaps og microcopy-standarder.
 * [`04-prototypes-and-specs/`](./04-prototypes-and-specs/) — Interaktive kode-prototyper og udtømmende tilstandsmaskiner (State Machines).
 * [`05-sparring-and-reflection/`](./05-sparring-and-reflection/) — Dit personlige refleksions- og sparringslaboratorium ("The Challenger", ugentlig 1:1 forberedelse til Jacob Ø og eksperimentlog).
+* [`dashboards/`](./dashboards/) — Samlet oversigt over relevante Power BI- og Adobe Analytics-dashboards.
 
 ---
 
